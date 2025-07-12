@@ -1,0 +1,6 @@
+In this folder you will find:
+
+1-A picture titled planning, which contains the plan i followed to implement the project.
+2-Python file i implemented myself.
+3-Python file modified using ChatGPT
+4-Python file modified using DeepSeek 
